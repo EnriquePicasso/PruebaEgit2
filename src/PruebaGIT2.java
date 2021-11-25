@@ -6,6 +6,10 @@ public class PruebaGIT2 {
 		
 		System.out.println("Hola mundo");
 
+		
+		int num1 = 1;
+		int num2 = 2;
+		
 	}
 
 }
