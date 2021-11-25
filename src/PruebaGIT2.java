@@ -10,6 +10,11 @@ public class PruebaGIT2 {
 		int num1 = 1;
 		int num2 = 2;
 		
+		
+		String nombre = "Enrique";
+		
+		System.out.println(nombre);
+		
 	}
 
 }
