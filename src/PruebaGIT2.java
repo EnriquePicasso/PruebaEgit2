@@ -13,9 +13,7 @@ public class PruebaGIT2 {
 		int num4 = 5;
 		int resultado = num3 + num4;
 		
-		System.out.println(resultado);
-		System.out.println("Nuevo mensaje");
-
+		System.out.println("Resuelvo el confilcto");
 	}
 
 }
